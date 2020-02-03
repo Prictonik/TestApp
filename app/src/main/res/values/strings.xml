@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAPP</string>
+    <string name="monkey_treasure">Monkey Treasure</string>
+    <string name="webview">WebView</string>
+    <string name="loss">Вы проиграли</string>
+    <string name="nextstep">Еще разок?</string>
+    <string name="usd">Текущее значение курса доллара</string>
+    <string name="goend">Сколько стоит доллар?</string>
+</resources>
